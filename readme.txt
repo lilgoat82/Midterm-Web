@@ -1,5 +1,5 @@
 ----English----
-- Here is introduction for the program named "Real time chat app".
+- Here is the introduction for the program named "Real time chat app".
 - This guide is written in both Vietnamese and English.
 
 - Before using this app you need to download, install, setting enviroment and some neccesary library, if you have got anything that I would say down here please check and do the next one.
